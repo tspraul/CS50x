@@ -1,5 +1,5 @@
 # CS50x
-This repository contains all my work from the CS50 online course through Harvard edX. 
+This repository will eventually contain all my work from the CS50 online course through Harvard edX. 
 
 CS50 (Computer Science 50) is an on-campus and online introductory course on computer science from Harvard. The course material is available for free on HarvadX with a range of certificates available for a fee. Other courses on HarvardX can be found here: https://www.edx.org/school/harvardx
 
@@ -19,21 +19,20 @@ Week 2 - Arrays
 Week 3 - Algorithms  
 Week 4 - Memory  
 Week 5 - Data Structures  
-Week 6 - HTTP  
-Week 7 - Machine Learning  
-Week 8 - Python  
-Week 9 - SQL  
-Week 10 - JavaScript  
-Week 11 - The End  
+Week 6 - Python
+Week 7 - SQL 
+Week 8 - Information
+Week 9 - Web (HTTP, HTML, CSS, Javascript, Flask)
+Week 10 - Final Project  
 
 ## Problem Sets
 
 Problem Set 0 - Scratch | Language - Scratch  
-Problem Set 1 - C | Language - C  
-Problem Set 2 - Crypto | Language C  
-Problem Set 3 - Game of Fifteen | Language - C  
-Problem Set 4 - Forensics | Language - C  
-Problem Set 5 - Mispellings | Language - C  
-Problem Set 6 - Sentimental | Language - Python  
-Problem Set 7 - C$50 Finance | Language - Python, SQL  
-Problem Set 8 - Mashup | Language - JavaScript  
+Problem Set 1 - Hello, world; Mario | Language - C  
+Problem Set 2 -   
+Problem Set 3 -  
+Problem Set 4 -  
+Problem Set 5 -  
+Problem Set 6 -   
+Problem Set 7 - 
+Problem Set 8 - 
