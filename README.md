@@ -19,10 +19,10 @@ Week 2 - Arrays
 Week 3 - Algorithms  
 Week 4 - Memory  
 Week 5 - Data Structures  
-Week 6 - Python
-Week 7 - SQL 
-Week 8 - Information
-Week 9 - Web (HTTP, HTML, CSS, Javascript, Flask)
+Week 6 - Python  
+Week 7 - SQL  
+Week 8 - Information  
+Week 9 - Web (HTTP, HTML, CSS, Javascript, Flask)  
 Week 10 - Final Project  
 
 ## Problem Sets
