@@ -29,7 +29,7 @@ Week 10 - Final Project
 
 Problem Set 0 - Scratch | Language - Scratch  
 Problem Set 1 - Hello, world; Mario | Language - C  
-Problem Set 2 - Readability; Caesar | Language - C
+Problem Set 2 - Readability; Caesar | Language - C  
 Problem Set 3 -  
 Problem Set 4 -  
 Problem Set 5 -  
